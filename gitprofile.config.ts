@@ -42,8 +42,8 @@ const CONFIG = {
   website: "",
 
   social: {
-    linkedin: "https://www.linkedin.com/in/namitfullstack/",
-    x: "https://x.com/namitaggarwal12",
+    linkedin: "namitfullstack/",
+    x: "namitaggarwal12",
     mastodon: "",
     researchGate: "",
     facebook: "",
@@ -187,7 +187,7 @@ const CONFIG = {
     ],
   },
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/namitaggarwal/namitaggarwal.github.io"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
