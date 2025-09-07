@@ -138,9 +138,9 @@ const CONFIG = {
     username: "",
     limit: 2,
   },
-  googleAnalytics: {
-    id: "",
-  },
+  // googleAnalytics: {
+  //   id: "",
+  // },
   hotjar: { id: "", snippetVersion: 6 },
   themeConfig: {
     defaultTheme: "lofi",
